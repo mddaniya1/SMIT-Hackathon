@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+section {
+    width: 40%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.forgot {
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
